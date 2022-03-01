@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Farez"
+  given-names: "Mohammed"
+title: "Hand Gesture Recognition for Online Learning using MediaPipe"
+version: 1.0
+date-released: 2021-12-18
+url: "https://github.com/aminefarez/Hand-Gesture-Recognition_MediaPipe"
